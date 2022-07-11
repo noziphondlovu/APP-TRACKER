@@ -11,7 +11,7 @@ transcations; none
 [   Name,'Salary', 
     amount, 5000,
     Expense, 500,
-    type, 
+    type, 1000,
 ]
 
 }
