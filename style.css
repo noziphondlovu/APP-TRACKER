@@ -1,6 +1,6 @@
 :root {
     --box-shadow: 0px 1px 4px 1px rgba(199,199,199,1);
-    --income: ; 
+    --income: rgb(98, 98, 168) ; 
     --expense: red;
 }
 
