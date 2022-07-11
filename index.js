@@ -2,12 +2,16 @@ var state = {
 
 }
 
-var balance: 1000,
-var income: 1200,
-expense: 200,
-transcations:
+var balance: 1000;
+var income: 1200;
+expense: 200;
+transcations: none
 
 { 
-    [ name:'Salary', amount: 5000, type:]
+    [Name,'Salary', 
+    amount, 5000,
+    type, 
+]
+
 }
 
