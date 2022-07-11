@@ -30,9 +30,9 @@ body {
     box-shadow: var(--box-shadow);
     align-items: center;
     justify-content: center; 
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     padding-top: 20px;
-    margin-top: 50px;
+    margin-top: 5\0px;
 }
 
 .income-container {
